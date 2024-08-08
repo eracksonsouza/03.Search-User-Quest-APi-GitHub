@@ -3,7 +3,7 @@
 ![readme-api-github](https://github.com/user-attachments/assets/db4361d9-dac1-42ac-a3f2-e9a4b6e87791)
 
 ## Responsivo
-![readme-api-github-responsivo](https://github.com/user-attachments/assets/98586ddb-c02a-4b33-8098-bdd59703972e)
+![readme-api-github-responsivo](https://github.com/user-attachments/assets/5b1c6233-e05e-49a7-a4eb-47ece75c90fe)
 
 
 ## Sobre o Projeto
